@@ -280,7 +280,7 @@
     <value>Calendars accounts</value>
   </data>
   <data name="SettingsMain_DateAndTime_Description.Text" xml:space="preserve">
-    <value>Time zones, aoutmatic clock settings, calendar display</value>
+    <value>Time zones, automatic clock settings, calendar display</value>
   </data>
   <data name="SettingsMain_DateAndTime_Title.Text" xml:space="preserve">
     <value>Date &amp; time</value>
