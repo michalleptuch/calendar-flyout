@@ -178,7 +178,7 @@
     <value>Zavřít</value>
   </data>
   <data name="FirstRunExperience_Description.Text" xml:space="preserve">
-    <value>Click or tap on calendar icon to open calendar flyout and agenda. Right-click or tap and hold to open context menu.</value>
+    <value>Kliknutím nebo klepnutím na ikonu kalendáře otevřete rozbalovací okno kalendáře a agendu. Kliknutím pravým tlačítkem myši nebo klepnutím a podržením otevřete kontextovou nabídku.</value>
   </data>
   <data name="FirstRunExperience_OpenFlyoutButton.Content" xml:space="preserve">
     <value>Otevřít vyskakovací okno</value>
