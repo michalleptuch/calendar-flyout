@@ -118,244 +118,244 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AdditionalClocksControl_Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Dnes</value>
   </data>
   <data name="AdditionalClocksControl_Tomorrow" xml:space="preserve">
-    <value>Tomorrow</value>
+    <value>Zítra</value>
   </data>
   <data name="AdditionalClocksControl_Yesterday" xml:space="preserve">
-    <value>Yesterday</value>
+    <value>Včera</value>
   </data>
   <data name="Agenda_AllDay" xml:space="preserve">
-    <value>All day</value>
+    <value>Celý den</value>
   </data>
   <data name="Agenda_AllEventsHaveFinished.Text" xml:space="preserve">
-    <value>All events have finished</value>
+    <value>Všechny události byly dokončeny</value>
   </data>
   <data name="Agenda_AppointmentLocationTextBox.PlaceholderText" xml:space="preserve">
-    <value>Add a location</value>
+    <value>Přidat místo</value>
   </data>
   <data name="Agenda_AppointmentSubjectTextBox.PlaceholderText" xml:space="preserve">
-    <value>Add an event or reminder</value>
+    <value>Přidat událost nebo připomínku</value>
   </data>
   <data name="Agenda_Ends" xml:space="preserve">
-    <value>Ends</value>
+    <value>Končí</value>
   </data>
   <data name="Agenda_MoreDetailsButton.Content" xml:space="preserve">
-    <value>More details</value>
+    <value>Podrobnosti</value>
   </data>
   <data name="Agenda_NoEvents.Text" xml:space="preserve">
-    <value>No events</value>
+    <value>Žádné události</value>
   </data>
   <data name="Agenda_NoPermissionsInfoBar.Message" xml:space="preserve">
-    <value>Calendar Flyout couldn't access your calendar. Please check your calendar privacy settings and restart the app.</value>
+    <value>Calendar Flyout nemohl získat přístup k vašemu kalendáři. Prosíme zkontrolujte nastavení soukromí kalendáře a restartujte aplikaci.</value>
   </data>
   <data name="Agenda_NoPermissionsPrivacySettings.Content" xml:space="preserve">
-    <value>Privacy settings</value>
+    <value>Nastavení soukromí</value>
   </data>
   <data name="Agenda_SaveAppointmentButton.Content" xml:space="preserve">
-    <value>Save</value>
+    <value>Uložit</value>
   </data>
   <data name="Agenda_TimeTo.Text" xml:space="preserve">
-    <value>to</value>
+    <value>do</value>
   </data>
   <data name="Agenda_Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Dnes</value>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Calendar Flyout</value>
   </data>
   <data name="ContextMenu_OpenCalendar.Text" xml:space="preserve">
-    <value>Open Calendar</value>
+    <value>Otevřít kalendář</value>
   </data>
   <data name="ContextMenu_Quit.Text" xml:space="preserve">
-    <value>Quit</value>
+    <value>Odejít</value>
   </data>
   <data name="ContextMenu_Settings.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Nastavení</value>
   </data>
   <data name="FirstRunExperience_CloseButton.Content" xml:space="preserve">
-    <value>Close</value>
+    <value>Zavřít</value>
   </data>
   <data name="FirstRunExperience_Description.Text" xml:space="preserve">
-    <value>Click or tap on calendar icon to open calendar flyout and agenda. Right-click or tap and hold to open context menu.</value>
+    <value>Kliknutím nebo klepnutím na ikonu kalendáře otevřete rozbalovací okno kalendáře a agendu. Kliknutím pravým tlačítkem myši nebo klepnutím a podržením otevřete kontextovou nabídku.</value>
   </data>
   <data name="FirstRunExperience_OpenFlyoutButton.Content" xml:space="preserve">
-    <value>Open flyout</value>
+    <value>Otevřít vyskakovací okno</value>
   </data>
   <data name="FirstRunExperience_Title.Text" xml:space="preserve">
-    <value>Welcome to Calendar Flyout</value>
+    <value>Vítejte v Calendar Flyout</value>
   </data>
   <data name="FirstRunExperience_WindowTitle" xml:space="preserve">
-    <value>Welcome to Calendar Flyout</value>
+    <value>Vítejte v Calendar Flyout</value>
   </data>
   <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
     <value>Calendar Flyout</value>
   </data>
   <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
-    <value>Email support</value>
+    <value>E-mailová podpora</value>
   </data>
   <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
-    <value>Feedback</value>
+    <value>Zpětná vazba</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>The following libraries have been used in this app</value>
+    <value>V této aplikaci byly použity následující knihovny</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
-    <value>Libraries</value>
+    <value>Knihovny</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>My apps</value>
+    <value>Mé aplikace</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
-    <value>Rate and review</value>
+    <value>Ohodnotit a zrecenzovat</value>
   </data>
   <data name="SettingsAbout_Title" xml:space="preserve">
-    <value>About</value>
+    <value>O</value>
   </data>
   <data name="SettingsAbout_Version.Text" xml:space="preserve">
-    <value>Version:</value>
+    <value>Verze:</value>
   </data>
   <data name="SettingsAdditionalClocks_Clock1DefaultName" xml:space="preserve">
-    <value>Clock 1</value>
+    <value>Hodiny 1</value>
   </data>
   <data name="SettingsAdditionalClocks_Clock2DefaultName" xml:space="preserve">
-    <value>Clock 2</value>
+    <value>Hodiny 2</value>
   </data>
   <data name="SettingsAdditionalClocks_ClockName.Text" xml:space="preserve">
-    <value>Clock name</value>
+    <value>Název hodin</value>
   </data>
   <data name="SettingsAdditionalClocks_FirstClock_Description.Text" xml:space="preserve">
-    <value>Enable additional clock</value>
+    <value>Povolit další hodiny</value>
   </data>
   <data name="SettingsAdditionalClocks_FirstClock_Title.Text" xml:space="preserve">
-    <value>First clock</value>
+    <value>První hodiny</value>
   </data>
   <data name="SettingsAdditionalClocks_SecondClock_Description.Text" xml:space="preserve">
-    <value>Enable additional clock</value>
+    <value>Povolit další hodiny</value>
   </data>
   <data name="SettingsAdditionalClocks_SecondClock_Title.Text" xml:space="preserve">
-    <value>Second clock</value>
+    <value>Druhé hodiny</value>
   </data>
   <data name="SettingsAdditionalClocks_TimeZone.Text" xml:space="preserve">
-    <value>Time zone</value>
+    <value>Časové pásmo</value>
   </data>
   <data name="SettingsAdditionalClocks_Title" xml:space="preserve">
-    <value>Additional clocks</value>
+    <value>Další hodiny</value>
   </data>
   <data name="SettingsCalendarsAccounts_CalendarsVisibility_Description.Text" xml:space="preserve">
-    <value>Set visibility of calendars accounts</value>
+    <value>Nastavení viditelnosti účtů kalendáře</value>
   </data>
   <data name="SettingsCalendarsAccounts_Title" xml:space="preserve">
-    <value>Calendars accounts</value>
+    <value>Účty kalendáře</value>
   </data>
   <data name="SettingsMain_About_Description.Text" xml:space="preserve">
-    <value>Information about this app</value>
+    <value>Informace o této aplikaci</value>
   </data>
   <data name="SettingsMain_About_Title.Text" xml:space="preserve">
-    <value>About</value>
+    <value>O</value>
   </data>
   <data name="SettingsMain_Accounts_Description.Text" xml:space="preserve">
-    <value>Manage accounts used by email, calendar and contacts</value>
+    <value>Spravovat účty využívané e-mailem, kalendářem a kontakty</value>
   </data>
   <data name="SettingsMain_Accounts_Title.Text" xml:space="preserve">
-    <value>Accounts</value>
+    <value>Účty</value>
   </data>
   <data name="SettingsMain_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Customize keyboard shortcut</value>
+    <value>Přizpůsobit klávesovou zkratku</value>
   </data>
   <data name="SettingsMain_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Activation shortcut</value>
+    <value>Zkratka pro aktivaci</value>
   </data>
   <data name="SettingsMain_AdditionalClocks_Description.Text" xml:space="preserve">
-    <value>Clocks for different time zones</value>
+    <value>Hodiny pro různá časová pásma</value>
   </data>
   <data name="SettingsMain_AdditionalClocks_Title.Text" xml:space="preserve">
-    <value>Additional clocks</value>
+    <value>Další hodiny</value>
   </data>
   <data name="SettingsMain_CalendarsAccounts_Description.Text" xml:space="preserve">
-    <value>Show appointments for specified calendars accounts</value>
+    <value>Zobrazit schůzky pro určené kalendáře účtů</value>
   </data>
   <data name="SettingsMain_CalendarsAccounts_Title.Text" xml:space="preserve">
-    <value>Calendars accounts</value>
+    <value>Účty kalendářů</value>
   </data>
   <data name="SettingsMain_DateAndTime_Description.Text" xml:space="preserve">
-    <value>Time zones, automatic clock settings, calendar display</value>
+    <value>Časová pásma, automatické nastavení hodin, zobrazení kalendáře</value>
   </data>
   <data name="SettingsMain_DateAndTime_Title.Text" xml:space="preserve">
-    <value>Date &amp; time</value>
+    <value>Datum &amp; čas</value>
   </data>
   <data name="SettingsMain_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Enable keyboard shortcut to open calendar flyout</value>
+    <value>Povolení klávesové zkratky pro otevření vyskakovacího okna kalendáře</value>
   </data>
   <data name="SettingsMain_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Enable activation shortcut</value>
+    <value>Povolení zkratky pro aktivaci</value>
   </data>
   <data name="SettingsMain_More.Text" xml:space="preserve">
-    <value>More</value>
+    <value>Více</value>
   </data>
   <data name="SettingsMain_Personalization.Text" xml:space="preserve">
-    <value>Personalization</value>
+    <value>Přizpůsobení</value>
   </data>
   <data name="SettingsMain_RelatedSettings.Text" xml:space="preserve">
-    <value>Related settings</value>
+    <value>Související nastavení</value>
   </data>
   <data name="SettingsMain_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>Run app automatically after you log in</value>
+    <value>Automatické spuštění aplikace po přihlášení</value>
   </data>
   <data name="SettingsMain_RunAtStartup_OpenSettings.Content" xml:space="preserve">
-    <value>Open Settings</value>
+    <value>Otevřít Nastavení</value>
   </data>
   <data name="SettingsMain_RunAtStartup_Title.Text" xml:space="preserve">
-    <value>Run at startup</value>
+    <value>Spuštění po startu</value>
   </data>
   <data name="SettingsMain_SettingsTitle" xml:space="preserve">
-    <value>Settings</value>
+    <value>Nastavení</value>
   </data>
   <data name="SettingsMain_ShowAppointmentsIndicatorOnTrayIcon_Description.Text" xml:space="preserve">
-    <value>Show small orange dot on tray icon</value>
+    <value>Zobrazit malý oranžový bod na ikoně v oznamovací oblasti</value>
   </data>
   <data name="SettingsMain_ShowAppointmentsIndicatorOnTrayIcon_Title.Text" xml:space="preserve">
-    <value>Show appointments indicator on tray icon</value>
+    <value>Zobrazit indikátor schůzek na ikoně v oznamovací oblasti</value>
   </data>
   <data name="SettingsMain_ShowAppointmentsIndicators_Description.Text" xml:space="preserve">
-    <value>Show small dots in calendar view</value>
+    <value>Zobrazovat malé tečky v kalendáři</value>
   </data>
   <data name="SettingsMain_ShowAppointmentsIndicators_Title.Text" xml:space="preserve">
-    <value>Show appointments indicators</value>
+    <value>Zobrazovat indikátory schůzek</value>
   </data>
   <data name="SettingsMain_ShowFinishedAppointmentsInAgendaAndOnTrayIcon_Description.Text" xml:space="preserve">
-    <value>Show finished appointments in agenda and on tray icon</value>
+    <value>Zobrazovat dokončené schůzky v agendě a na ikoně v oznamovací oblasti</value>
   </data>
   <data name="SettingsMain_ShowFinishedAppointmentsInAgendaAndOnTrayIcon_Title.Text" xml:space="preserve">
-    <value>Show finished appointments</value>
+    <value>Zobrazovat dokončené schůzky</value>
   </data>
   <data name="SettingsMain_ShowSeconds_Description.Text" xml:space="preserve">
-    <value>Show seconds in clock in app header</value>
+    <value>Zobrazovat vteřiny v hodinách v záhlaví aplikace</value>
   </data>
   <data name="SettingsMain_ShowSeconds_Title.Text" xml:space="preserve">
-    <value>Show seconds</value>
+    <value>Zobrazovat vteřiny</value>
   </data>
   <data name="Settings_WindowTitle.Text" xml:space="preserve">
     <value>Calendar Flyout</value>
   </data>
   <data name="ShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Save</value>
+    <value>Uložit</value>
   </data>
   <data name="ShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Zrušit</value>
   </data>
   <data name="ShortcutEditor_ContentDialog.Title" xml:space="preserve">
-    <value>Activation shortcut</value>
+    <value>Aktivační zkratka</value>
   </data>
   <data name="ShortcutEditor_Description.Text" xml:space="preserve">
-    <value>Press a combination of keys to change this shortcut</value>
+    <value>Stiskněte kombinaci kláves pro změnu této zkratky</value>
   </data>
   <data name="ShortcutEditor_Info1.Text" xml:space="preserve">
-    <value>Only shortcuts that start with</value>
+    <value>Pouze zkratky, které začínají na</value>
   </data>
   <data name="ShortcutEditor_Info2.Text" xml:space="preserve">
-    <value>Windows key</value>
+    <value>klávesa Windows</value>
   </data>
   <data name="ShortcutEditor_Info3.Text" xml:space="preserve">
     <value>Ctrl</value>
@@ -364,12 +364,12 @@
     <value>Alt</value>
   </data>
   <data name="ShortcutEditor_Info5.Text" xml:space="preserve">
-    <value>or</value>
+    <value>nebo</value>
   </data>
   <data name="ShortcutEditor_Info6.Text" xml:space="preserve">
     <value>Shift</value>
   </data>
   <data name="ShortcutEditor_Info7.Text" xml:space="preserve">
-    <value>are valid.</value>
+    <value>jsou platné.</value>
   </data>
 </root>
