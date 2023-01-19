@@ -11,4 +11,7 @@ Only Outlook personal calendars are synchronized properly. For other calendars (
 
 ![](images/CalendarFlyoutHero.png)  
 
-Feel free to share ideas about new features or report bugs.
+## Translations
+
+Czech: [@morning4coffe-dev](https://github.com/morning4coffe-dev)  
+German: [@Armin2208](https://github.com/Armin2208)
