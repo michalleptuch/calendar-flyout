@@ -163,7 +163,7 @@
     <value>Bugün</value>
   </data>
   <data name="ApplicationName" xml:space="preserve">
-    <value>Takvim Açılır Öğesi</value>
+    <value>Calendar Flyout</value>
   </data>
   <data name="ContextMenu_OpenCalendar.Text" xml:space="preserve">
     <value>Takvimi Aç</value>
