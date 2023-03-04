@@ -14,5 +14,8 @@ Only Outlook personal calendars are synchronized properly. For other calendars (
 ## Translations
 
 Czech: [@morning4coffe-dev](https://github.com/morning4coffe-dev)  
+English (United States): [@michalleptuch](https://github.com/michalleptuch)  
 French: [@FJduFou](https://github.com/FJduFou)  
-German: [@Armin2208](https://github.com/Armin2208)
+German: [@Armin2208](https://github.com/Armin2208)  
+Polish: [@michalleptuch](https://github.com/michalleptuch)  
+Turkish: [@baglayan](https://github.com/baglayan)  
