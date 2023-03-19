@@ -1,4 +1,4 @@
-[//]: # (Description)
+﻿[//]: # (Description)
 
 Calendar Flyout 將行事曆摘要彈出視窗和具有秒的時鐘帶回 Windows 11
 
@@ -11,10 +11,10 @@ Calendar Flyout 將行事曆摘要彈出視窗和具有秒的時鐘帶回 Window
 
 [//]: # (Keywords)
 
-calendar
-flyout
-agenda
-clock
-windows
-appointment
-event
+日曆
+控制板
+議程
+鐘
+視窗
+預約
+事件
