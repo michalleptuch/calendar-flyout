@@ -13,6 +13,7 @@ Only Outlook personal calendars are synchronized properly. For other calendars (
 
 ## Translations
 
+Chinese (Traditional, Taiwan): [@ted1030](https://github.com/ted1030)  
 Czech: [@morning4coffe-dev](https://github.com/morning4coffe-dev)  
 English (United States): [@michalleptuch](https://github.com/michalleptuch)  
 French: [@FJduFou](https://github.com/FJduFou)  
