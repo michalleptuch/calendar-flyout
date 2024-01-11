@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdditionalClocksControl_Today" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="AdditionalClocksControl_Tomorrow" xml:space="preserve">
+    <value>Tomorrow</value>
+  </data>
+  <data name="AdditionalClocksControl_Yesterday" xml:space="preserve">
+    <value>Yesterday</value>
+  </data>
+  <data name="Agenda_AllDay" xml:space="preserve">
+    <value>All day</value>
+  </data>
+  <data name="Agenda_AllEventsHaveFinished.Text" xml:space="preserve">
+    <value>All events have finished</value>
+  </data>
+  <data name="Agenda_AppointmentLocationTextBox.PlaceholderText" xml:space="preserve">
+    <value>Add a location</value>
+  </data>
+  <data name="Agenda_AppointmentSubjectTextBox.PlaceholderText" xml:space="preserve">
+    <value>Add an event or reminder</value>
+  </data>
+  <data name="Agenda_Ends" xml:space="preserve">
+    <value>Ends</value>
+  </data>
+  <data name="Agenda_MoreDetailsButton.Content" xml:space="preserve">
+    <value>More details</value>
+  </data>
+  <data name="Agenda_NoEvents.Text" xml:space="preserve">
+    <value>No events</value>
+  </data>
+  <data name="Agenda_NoPermissionsInfoBar.Message" xml:space="preserve">
+    <value>Calendar Flyout couldn't access your calendar. Please check your calendar privacy settings and restart the app.</value>
+  </data>
+  <data name="Agenda_NoPermissionsPrivacySettings.Content" xml:space="preserve">
+    <value>Privacy settings</value>
+  </data>
+  <data name="Agenda_SaveAppointmentButton.Content" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Agenda_TimeTo.Text" xml:space="preserve">
+    <value>to</value>
+  </data>
+  <data name="Agenda_Today" xml:space="preserve">
+    <value>Today</value>
+  </data>
+  <data name="ApplicationName" xml:space="preserve">
+    <value>Calendar Flyout</value>
+  </data>
+  <data name="ContextMenu_OpenCalendar.Text" xml:space="preserve">
+    <value>Open Calendar</value>
+  </data>
+  <data name="ContextMenu_Quit.Text" xml:space="preserve">
+    <value>Quit</value>
+  </data>
+  <data name="ContextMenu_Settings.Text" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="FirstRunExperience_CloseButton.Content" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="FirstRunExperience_Description.Text" xml:space="preserve">
+    <value>Click or tap on calendar icon to open calendar flyout and agenda. Right-click or tap and hold to open context menu.</value>
+  </data>
+  <data name="FirstRunExperience_OpenFlyoutButton.Content" xml:space="preserve">
+    <value>Open flyout</value>
+  </data>
+  <data name="FirstRunExperience_Title.Text" xml:space="preserve">
+    <value>Welcome to Calendar Flyout</value>
+  </data>
+  <data name="FirstRunExperience_WindowTitle" xml:space="preserve">
+    <value>Welcome to Calendar Flyout</value>
+  </data>
+  <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
+    <value>Calendar Flyout</value>
+  </data>
+  <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
+    <value>Email support</value>
+  </data>
+  <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
+    <value>Feedback</value>
+  </data>
+  <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
+    <value>The following libraries have been used in this app</value>
+  </data>
+  <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
+    <value>Libraries</value>
+  </data>
+  <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
+    <value>My apps</value>
+  </data>
+  <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
+    <value>Rate and review</value>
+  </data>
+  <data name="SettingsAbout_Title" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="SettingsAbout_Version.Text" xml:space="preserve">
+    <value>Version:</value>
+  </data>
+  <data name="SettingsAdditionalClocks_Clock1DefaultName" xml:space="preserve">
+    <value>Clock 1</value>
+  </data>
+  <data name="SettingsAdditionalClocks_Clock2DefaultName" xml:space="preserve">
+    <value>Clock 2</value>
+  </data>
+  <data name="SettingsAdditionalClocks_ClockName.Text" xml:space="preserve">
+    <value>Clock name</value>
+  </data>
+  <data name="SettingsAdditionalClocks_FirstClock_Description.Text" xml:space="preserve">
+    <value>Enable additional clock</value>
+  </data>
+  <data name="SettingsAdditionalClocks_FirstClock_Title.Text" xml:space="preserve">
+    <value>First clock</value>
+  </data>
+  <data name="SettingsAdditionalClocks_SecondClock_Description.Text" xml:space="preserve">
+    <value>Enable additional clock</value>
+  </data>
+  <data name="SettingsAdditionalClocks_SecondClock_Title.Text" xml:space="preserve">
+    <value>Second clock</value>
+  </data>
+  <data name="SettingsAdditionalClocks_TimeZone.Text" xml:space="preserve">
+    <value>Time zone</value>
+  </data>
+  <data name="SettingsAdditionalClocks_Title" xml:space="preserve">
+    <value>Additional clocks</value>
+  </data>
+  <data name="SettingsCalendarsAccounts_CalendarsVisibility_Description.Text" xml:space="preserve">
+    <value>Set visibility of calendars accounts</value>
+  </data>
+  <data name="SettingsCalendarsAccounts_Title" xml:space="preserve">
+    <value>Calendars accounts</value>
+  </data>
+  <data name="SettingsMain_About_Description.Text" xml:space="preserve">
+    <value>Information about this app</value>
+  </data>
+  <data name="SettingsMain_About_Title.Text" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="SettingsMain_Accounts_Description.Text" xml:space="preserve">
+    <value>Manage accounts used by email, calendar and contacts</value>
+  </data>
+  <data name="SettingsMain_Accounts_Title.Text" xml:space="preserve">
+    <value>Accounts</value>
+  </data>
+  <data name="SettingsMain_ActivationShortcut_Description.Text" xml:space="preserve">
+    <value>Customize keyboard shortcut</value>
+  </data>
+  <data name="SettingsMain_ActivationShortcut_Title.Text" xml:space="preserve">
+    <value>Activation shortcut</value>
+  </data>
+  <data name="SettingsMain_AdditionalClocks_Description.Text" xml:space="preserve">
+    <value>Clocks for different time zones</value>
+  </data>
+  <data name="SettingsMain_AdditionalClocks_Title.Text" xml:space="preserve">
+    <value>Additional clocks</value>
+  </data>
+  <data name="SettingsMain_CalendarsAccounts_Description.Text" xml:space="preserve">
+    <value>Show appointments for specified calendars accounts</value>
+  </data>
+  <data name="SettingsMain_CalendarsAccounts_Title.Text" xml:space="preserve">
+    <value>Calendars accounts</value>
+  </data>
+  <data name="SettingsMain_DateAndTime_Description.Text" xml:space="preserve">
+    <value>Time zones, automatic clock settings, calendar display</value>
+  </data>
+  <data name="SettingsMain_DateAndTime_Title.Text" xml:space="preserve">
+    <value>Date &amp; time</value>
+  </data>
+  <data name="SettingsMain_EnableActivationShortcut_Description.Text" xml:space="preserve">
+    <value>Enable keyboard shortcut to open calendar flyout</value>
+  </data>
+  <data name="SettingsMain_EnableActivationShortcut_Title.Text" xml:space="preserve">
+    <value>Enable activation shortcut</value>
+  </data>
+  <data name="SettingsMain_More.Text" xml:space="preserve">
+    <value>More</value>
+  </data>
+  <data name="SettingsMain_Personalization.Text" xml:space="preserve">
+    <value>Personalization</value>
+  </data>
+  <data name="SettingsMain_RelatedSettings.Text" xml:space="preserve">
+    <value>Related settings</value>
+  </data>
+  <data name="SettingsMain_RunAtStartup_Description.Text" xml:space="preserve">
+    <value>Run app automatically after you log in</value>
+  </data>
+  <data name="SettingsMain_RunAtStartup_OpenSettings.Content" xml:space="preserve">
+    <value>Open Settings</value>
+  </data>
+  <data name="SettingsMain_RunAtStartup_Title.Text" xml:space="preserve">
+    <value>Run at startup</value>
+  </data>
+  <data name="SettingsMain_SettingsTitle" xml:space="preserve">
+    <value>Settings</value>
+  </data>
+  <data name="SettingsMain_ShowAppointmentsIndicatorOnTrayIcon_Description.Text" xml:space="preserve">
+    <value>Show small orange dot on tray icon</value>
+  </data>
+  <data name="SettingsMain_ShowAppointmentsIndicatorOnTrayIcon_Title.Text" xml:space="preserve">
+    <value>Show appointments indicator on tray icon</value>
+  </data>
+  <data name="SettingsMain_ShowAppointmentsIndicators_Description.Text" xml:space="preserve">
+    <value>Show small dots in calendar view</value>
+  </data>
+  <data name="SettingsMain_ShowAppointmentsIndicators_Title.Text" xml:space="preserve">
+    <value>Show appointments indicators</value>
+  </data>
+  <data name="SettingsMain_ShowFinishedAppointmentsInAgendaAndOnTrayIcon_Description.Text" xml:space="preserve">
+    <value>Show finished appointments in agenda and on tray icon</value>
+  </data>
+  <data name="SettingsMain_ShowFinishedAppointmentsInAgendaAndOnTrayIcon_Title.Text" xml:space="preserve">
+    <value>Show finished appointments</value>
+  </data>
+  <data name="SettingsMain_ShowSeconds_Description.Text" xml:space="preserve">
+    <value>Show seconds in clock in app header</value>
+  </data>
+  <data name="SettingsMain_ShowSeconds_Title.Text" xml:space="preserve">
+    <value>Show seconds</value>
+  </data>
+  <data name="Settings_WindowTitle.Text" xml:space="preserve">
+    <value>Calendar Flyout</value>
+  </data>
+  <data name="ShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="ShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="ShortcutEditor_ContentDialog.Title" xml:space="preserve">
+    <value>Activation shortcut</value>
+  </data>
+  <data name="ShortcutEditor_Description.Text" xml:space="preserve">
+    <value>Press a combination of keys to change this shortcut</value>
+  </data>
+  <data name="ShortcutEditor_Info1.Text" xml:space="preserve">
+    <value>Only shortcuts that start with</value>
+  </data>
+  <data name="ShortcutEditor_Info2.Text" xml:space="preserve">
+    <value>Windows key</value>
+  </data>
+  <data name="ShortcutEditor_Info3.Text" xml:space="preserve">
+    <value>Ctrl</value>
+  </data>
+  <data name="ShortcutEditor_Info4.Text" xml:space="preserve">
+    <value>Alt</value>
+  </data>
+  <data name="ShortcutEditor_Info5.Text" xml:space="preserve">
+    <value>or</value>
+  </data>
+  <data name="ShortcutEditor_Info6.Text" xml:space="preserve">
+    <value>Shift</value>
+  </data>
+  <data name="ShortcutEditor_Info7.Text" xml:space="preserve">
+    <value>are valid.</value>
+  </data>
+</root>
