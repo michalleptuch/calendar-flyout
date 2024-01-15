@@ -118,244 +118,244 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AdditionalClocksControl_Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Hari ini</value>
   </data>
   <data name="AdditionalClocksControl_Tomorrow" xml:space="preserve">
-    <value>Tomorrow</value>
+    <value>Besok</value>
   </data>
   <data name="AdditionalClocksControl_Yesterday" xml:space="preserve">
-    <value>Yesterday</value>
+    <value>Kemarin</value>
   </data>
   <data name="Agenda_AllDay" xml:space="preserve">
-    <value>All day</value>
+    <value>Setiap hari</value>
   </data>
   <data name="Agenda_AllEventsHaveFinished.Text" xml:space="preserve">
-    <value>All events have finished</value>
+    <value>Semua acara telah selesai</value>
   </data>
   <data name="Agenda_AppointmentLocationTextBox.PlaceholderText" xml:space="preserve">
-    <value>Add a location</value>
+    <value>Tambahkan lokasi</value>
   </data>
   <data name="Agenda_AppointmentSubjectTextBox.PlaceholderText" xml:space="preserve">
-    <value>Add an event or reminder</value>
+    <value>Tambahkan acara atau pengingat</value>
   </data>
   <data name="Agenda_Ends" xml:space="preserve">
-    <value>Ends</value>
+    <value>Selesai</value>
   </data>
   <data name="Agenda_MoreDetailsButton.Content" xml:space="preserve">
-    <value>More details</value>
+    <value>Keterangan lebih lanjut</value>
   </data>
   <data name="Agenda_NoEvents.Text" xml:space="preserve">
-    <value>No events</value>
+    <value>Tidak ada acara</value>
   </data>
   <data name="Agenda_NoPermissionsInfoBar.Message" xml:space="preserve">
-    <value>Calendar Flyout couldn't access your calendar. Please check your calendar privacy settings and restart the app.</value>
+    <value>Calendar Flyout tidak dapat mengakses kalender Anda. Periksa pengaturan privasi kalender Anda dan mulai ulang aplikasi.</value>
   </data>
   <data name="Agenda_NoPermissionsPrivacySettings.Content" xml:space="preserve">
-    <value>Privacy settings</value>
+    <value>Pengaturan privasi</value>
   </data>
   <data name="Agenda_SaveAppointmentButton.Content" xml:space="preserve">
-    <value>Save</value>
+    <value>Simpan</value>
   </data>
   <data name="Agenda_TimeTo.Text" xml:space="preserve">
-    <value>to</value>
+    <value>ke</value>
   </data>
   <data name="Agenda_Today" xml:space="preserve">
-    <value>Today</value>
+    <value>Hari ini</value>
   </data>
   <data name="ApplicationName" xml:space="preserve">
     <value>Calendar Flyout</value>
   </data>
   <data name="ContextMenu_OpenCalendar.Text" xml:space="preserve">
-    <value>Open Calendar</value>
+    <value>Buka kalender</value>
   </data>
   <data name="ContextMenu_Quit.Text" xml:space="preserve">
-    <value>Quit</value>
+    <value>Keluar</value>
   </data>
   <data name="ContextMenu_Settings.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Pengaturan</value>
   </data>
   <data name="FirstRunExperience_CloseButton.Content" xml:space="preserve">
-    <value>Close</value>
+    <value>Tutup</value>
   </data>
   <data name="FirstRunExperience_Description.Text" xml:space="preserve">
-    <value>Click or tap on calendar icon to open calendar flyout and agenda. Right-click or tap and hold to open context menu.</value>
+    <value>Klik atau sentuh ikon kalender untuk membuka selebaran kalender dan agenda. Klik kanan atau ketuk dan tahan untuk membuka konteks menu.</value>
   </data>
   <data name="FirstRunExperience_OpenFlyoutButton.Content" xml:space="preserve">
-    <value>Open flyout</value>
+    <value>Buka flyout</value>
   </data>
   <data name="FirstRunExperience_Title.Text" xml:space="preserve">
-    <value>Welcome to Calendar Flyout</value>
+    <value>Selamat datang di Calendar Flyout</value>
   </data>
   <data name="FirstRunExperience_WindowTitle" xml:space="preserve">
-    <value>Welcome to Calendar Flyout</value>
+    <value>Selamat datang di Calendar Flyout</value>
   </data>
   <data name="SettingsAbout_ApplicationName.Text" xml:space="preserve">
     <value>Calendar Flyout</value>
   </data>
   <data name="SettingsAbout_EmailSupport.Content" xml:space="preserve">
-    <value>Email support</value>
+    <value>Dukungan email</value>
   </data>
   <data name="SettingsAbout_Feedback.Content" xml:space="preserve">
-    <value>Feedback</value>
+    <value>Umpan balik</value>
   </data>
   <data name="SettingsAbout_Libraries_Description.Text" xml:space="preserve">
-    <value>The following libraries have been used in this app</value>
+    <value>librari berikut telah digunakan dalam aplikasi ini</value>
   </data>
   <data name="SettingsAbout_Libraries_Title.Text" xml:space="preserve">
-    <value>Libraries</value>
+    <value>Librari</value>
   </data>
   <data name="SettingsAbout_MyApps.Content" xml:space="preserve">
-    <value>My apps</value>
+    <value>Aplikasi saya</value>
   </data>
   <data name="SettingsAbout_RateAndReview.Content" xml:space="preserve">
-    <value>Rate and review</value>
+    <value>Nilai dan ulasan</value>
   </data>
   <data name="SettingsAbout_Title" xml:space="preserve">
-    <value>About</value>
+    <value>Tentang</value>
   </data>
   <data name="SettingsAbout_Version.Text" xml:space="preserve">
-    <value>Version:</value>
+    <value>Versi:</value>
   </data>
   <data name="SettingsAdditionalClocks_Clock1DefaultName" xml:space="preserve">
-    <value>Clock 1</value>
+    <value>Jam 1</value>
   </data>
   <data name="SettingsAdditionalClocks_Clock2DefaultName" xml:space="preserve">
-    <value>Clock 2</value>
+    <value>Jam 2</value>
   </data>
   <data name="SettingsAdditionalClocks_ClockName.Text" xml:space="preserve">
-    <value>Clock name</value>
+    <value>Nama jam</value>
   </data>
   <data name="SettingsAdditionalClocks_FirstClock_Description.Text" xml:space="preserve">
-    <value>Enable additional clock</value>
+    <value>Aktifkan jam tambahan</value>
   </data>
   <data name="SettingsAdditionalClocks_FirstClock_Title.Text" xml:space="preserve">
-    <value>First clock</value>
+    <value>Jam pertama</value>
   </data>
   <data name="SettingsAdditionalClocks_SecondClock_Description.Text" xml:space="preserve">
-    <value>Enable additional clock</value>
+    <value>Aktifkan jam tambahan</value>
   </data>
   <data name="SettingsAdditionalClocks_SecondClock_Title.Text" xml:space="preserve">
-    <value>Second clock</value>
+    <value>Jam kedua</value>
   </data>
   <data name="SettingsAdditionalClocks_TimeZone.Text" xml:space="preserve">
-    <value>Time zone</value>
+    <value>Zona waktu</value>
   </data>
   <data name="SettingsAdditionalClocks_Title" xml:space="preserve">
-    <value>Additional clocks</value>
+    <value>Jam tambahan</value>
   </data>
   <data name="SettingsCalendarsAccounts_CalendarsVisibility_Description.Text" xml:space="preserve">
-    <value>Set visibility of calendars accounts</value>
+    <value>Atur visibilitas akun kalender</value>
   </data>
   <data name="SettingsCalendarsAccounts_Title" xml:space="preserve">
-    <value>Calendars accounts</value>
+    <value>Akun kalender</value>
   </data>
   <data name="SettingsMain_About_Description.Text" xml:space="preserve">
-    <value>Information about this app</value>
+    <value>Informasi tentang aplikasi ini</value>
   </data>
   <data name="SettingsMain_About_Title.Text" xml:space="preserve">
-    <value>About</value>
+    <value>Tentang</value>
   </data>
   <data name="SettingsMain_Accounts_Description.Text" xml:space="preserve">
-    <value>Manage accounts used by email, calendar and contacts</value>
+    <value>Kelola akun yang digunakan oleh email, kalender, dan kontak</value>
   </data>
   <data name="SettingsMain_Accounts_Title.Text" xml:space="preserve">
-    <value>Accounts</value>
+    <value>Akun</value>
   </data>
   <data name="SettingsMain_ActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Customize keyboard shortcut</value>
+    <value>Sesuaikan pintasan keyboard</value>
   </data>
   <data name="SettingsMain_ActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Activation shortcut</value>
+    <value>Pintasan aktivasi</value>
   </data>
   <data name="SettingsMain_AdditionalClocks_Description.Text" xml:space="preserve">
-    <value>Clocks for different time zones</value>
+    <value>Jam untuk zona waktu yang berbeda</value>
   </data>
   <data name="SettingsMain_AdditionalClocks_Title.Text" xml:space="preserve">
-    <value>Additional clocks</value>
+    <value>Jam tambahan</value>
   </data>
   <data name="SettingsMain_CalendarsAccounts_Description.Text" xml:space="preserve">
-    <value>Show appointments for specified calendars accounts</value>
+    <value>Tampilkan janji temu untuk akun kalender tertentu</value>
   </data>
   <data name="SettingsMain_CalendarsAccounts_Title.Text" xml:space="preserve">
-    <value>Calendars accounts</value>
+    <value>Akun kalender</value>
   </data>
   <data name="SettingsMain_DateAndTime_Description.Text" xml:space="preserve">
-    <value>Time zones, automatic clock settings, calendar display</value>
+    <value>Zona waktu, pengaturan jam otomatis, tampilan kalender</value>
   </data>
   <data name="SettingsMain_DateAndTime_Title.Text" xml:space="preserve">
-    <value>Date &amp; time</value>
+    <value>Tanggal & waktu</value>
   </data>
   <data name="SettingsMain_EnableActivationShortcut_Description.Text" xml:space="preserve">
-    <value>Enable keyboard shortcut to open calendar flyout</value>
+    <value>Aktifkan pintasan keyboard untuk membuka flyout kalender</value>
   </data>
   <data name="SettingsMain_EnableActivationShortcut_Title.Text" xml:space="preserve">
-    <value>Enable activation shortcut</value>
+    <value>Aktifkan pintasan aktivasi</value>
   </data>
   <data name="SettingsMain_More.Text" xml:space="preserve">
-    <value>More</value>
+    <value>Selengkapnya</value>
   </data>
   <data name="SettingsMain_Personalization.Text" xml:space="preserve">
-    <value>Personalization</value>
+    <value>Personalisasi</value>
   </data>
   <data name="SettingsMain_RelatedSettings.Text" xml:space="preserve">
-    <value>Related settings</value>
+    <value>Pengaturan terkait</value>
   </data>
   <data name="SettingsMain_RunAtStartup_Description.Text" xml:space="preserve">
-    <value>Run app automatically after you log in</value>
+    <value>Jalankan aplikasi secara otomatis setelah Anda masuk</value>
   </data>
   <data name="SettingsMain_RunAtStartup_OpenSettings.Content" xml:space="preserve">
-    <value>Open Settings</value>
+    <value>Buka Pengaturan</value>
   </data>
   <data name="SettingsMain_RunAtStartup_Title.Text" xml:space="preserve">
-    <value>Run at startup</value>
+    <value>Jalankan saat startup</value>
   </data>
   <data name="SettingsMain_SettingsTitle" xml:space="preserve">
-    <value>Settings</value>
+    <value>Pengaturan</value>
   </data>
   <data name="SettingsMain_ShowAppointmentsIndicatorOnTrayIcon_Description.Text" xml:space="preserve">
-    <value>Show small orange dot on tray icon</value>
+    <value>Tampilkan titik oranye kecil pada ikon tray</value>
   </data>
   <data name="SettingsMain_ShowAppointmentsIndicatorOnTrayIcon_Title.Text" xml:space="preserve">
-    <value>Show appointments indicator on tray icon</value>
+    <value>Menampilkan indikator janji temu pada ikon tray</value>
   </data>
   <data name="SettingsMain_ShowAppointmentsIndicators_Description.Text" xml:space="preserve">
-    <value>Show small dots in calendar view</value>
+    <value>Tampilkan titik kecil di tampilan kalender</value>
   </data>
   <data name="SettingsMain_ShowAppointmentsIndicators_Title.Text" xml:space="preserve">
-    <value>Show appointments indicators</value>
+    <value>Tampilkan indikator janji temu</value>
   </data>
   <data name="SettingsMain_ShowFinishedAppointmentsInAgendaAndOnTrayIcon_Description.Text" xml:space="preserve">
-    <value>Show finished appointments in agenda and on tray icon</value>
+    <value>Tampilkan janji temu yang sudah selesai dalam agenda dan ikon tray</value>
   </data>
   <data name="SettingsMain_ShowFinishedAppointmentsInAgendaAndOnTrayIcon_Title.Text" xml:space="preserve">
-    <value>Show finished appointments</value>
+    <value>Tampilkan janji temu yang sudah selesai</value>
   </data>
   <data name="SettingsMain_ShowSeconds_Description.Text" xml:space="preserve">
-    <value>Show seconds in clock in app header</value>
+    <value>Tampilkan detik dalam jam di header aplikasi</value>
   </data>
   <data name="SettingsMain_ShowSeconds_Title.Text" xml:space="preserve">
-    <value>Show seconds</value>
+    <value>Tampilkan detik</value>
   </data>
   <data name="Settings_WindowTitle.Text" xml:space="preserve">
     <value>Calendar Flyout</value>
   </data>
   <data name="ShortcutEditor_ContentDialog.PrimaryButtonText" xml:space="preserve">
-    <value>Save</value>
+    <value>Simpan</value>
   </data>
   <data name="ShortcutEditor_ContentDialog.SecondaryButtonText" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Batal</value>
   </data>
   <data name="ShortcutEditor_ContentDialog.Title" xml:space="preserve">
-    <value>Activation shortcut</value>
+    <value>Pintasan aktivasi</value>
   </data>
   <data name="ShortcutEditor_Description.Text" xml:space="preserve">
-    <value>Press a combination of keys to change this shortcut</value>
+    <value>Tekan kombinasi tombol untuk mengubah pintasan ini</value>
   </data>
   <data name="ShortcutEditor_Info1.Text" xml:space="preserve">
-    <value>Only shortcuts that start with</value>
+    <value>Hanya pintasan yang diawali dengan</value>
   </data>
   <data name="ShortcutEditor_Info2.Text" xml:space="preserve">
-    <value>Windows key</value>
+    <value>Tombol Windows</value>
   </data>
   <data name="ShortcutEditor_Info3.Text" xml:space="preserve">
     <value>Ctrl</value>
@@ -364,12 +364,12 @@
     <value>Alt</value>
   </data>
   <data name="ShortcutEditor_Info5.Text" xml:space="preserve">
-    <value>or</value>
+    <value>atau</value>
   </data>
   <data name="ShortcutEditor_Info6.Text" xml:space="preserve">
     <value>Shift</value>
   </data>
   <data name="ShortcutEditor_Info7.Text" xml:space="preserve">
-    <value>are valid.</value>
+    <value>adalah valid.</value>
   </data>
 </root>
