@@ -5,16 +5,18 @@ Calendar Flyout does not send:
 - information about device
 - calendars and events from added calendar accounts.
 
-Calendar Flyout reads and writes: 
+Calendar Flyout reads (and writes): 
+- details of added accounts
 - calendars in added accounts
 - events in added accounts.
 
 Calendar Flyout stores:
-- calendar and event data on your local machine.
+- details of calendars and events
+- telemetry and usage data.
 
 Calendar Flyout collects and sends:
-- anonymous information about crashes and hangs.
+- anonymous basic information about crashes and hangs.
 
 The publisher can modify or update this privacy policy. Users should review this privacy policy periodically.
 
-Last modified: **January 29, 2024**.
+Last modified: **August 25, 2024**.
