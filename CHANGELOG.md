@@ -1,3 +1,23 @@
+## [2.1.0] - 2024-10-10
+ 
+### Added
+- support for Google accounts
+- support for Google Meet online meetings
+- support for Outlook app (from Microsoft 365 bundle)
+- support for German and Italian languages
+- new Agenda widget for Windows Widgets Board
+- separated event indicators visibility setting for calendar view
+   
+### Changed
+- fixed communication between app processes
+- fixed title bar styles in the settings window
+- fixed scrolling and positioning for non-100% DPI displays
+- fixed mechanism of real-time synchronization
+- fixed time format in time pickers
+- fixed date format and styles in date pickers
+- fixed calendar picker in agenda view
+- fixed mechanism of accounts authentication flow
+
 ## [2.0.0] - 2024-02-01
  
 ### Added
@@ -31,8 +51,7 @@
 ## [Unreleased]
 
 ### To be added in the future releases
-- support for Gmail accounts
-- support for Outlook (Microsoft 365)
+- support for CalDAV calendars (including Apple Calendars)
 - HTML editor for event body
 - support for attenders
 - support for other online meeting providers
