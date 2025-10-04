@@ -47,12 +47,3 @@
 ### Removed
 - support for non-Microsoft calendars
 - synchronization with Microsoft Calendar app (UWP version introduced in Windows 10)
-
-## [Unreleased]
-
-### To be added in the future releases
-- support for CalDAV calendars (including Apple Calendars)
-- HTML editor for event body
-- support for attenders
-- support for other online meeting providers
-- support of locations with geo coordinates
