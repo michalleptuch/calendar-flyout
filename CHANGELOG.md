@@ -1,4 +1,4 @@
-## [2.2.0] - 2025-10-04
+## [2.2.0] - 2025-10-05
 
 ### Added
 - Add option to switch between 12-hour and 24-hour clock
